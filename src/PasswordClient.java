@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class PasswordClient {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-
+        //test
         System.out.println("Choose a secure password that meets these requirements:");
         System.out.println("- Is at least 8 characters long");
         System.out.println("- Contains at least one uppercase letter");

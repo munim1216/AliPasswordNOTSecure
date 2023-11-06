@@ -79,6 +79,7 @@ public class SecurePassword {
         } else if (randNum == 8) {
 
         }
+        return "smth more";
     }
 
     // PRIVATE "HELPER" METHODS (marked "private" rather than "public" which means other
